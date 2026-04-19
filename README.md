@@ -15,7 +15,7 @@ A simple Streamlit web app that converts speech to text using OpenAI Whisper mod
 ## Installation
 
 ```bash
-git clone https://github.com/bannawat-thanaphaksakulthip/Whisper-streamlit-app
+git clone https://github.com/bannawat-thanaphaksakulthip/Whisper-streamlit-app.git
 cd Whisper-streamlit-app
 pip install -r requirements.txt
 ```
